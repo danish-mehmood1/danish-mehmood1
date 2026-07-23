@@ -1,134 +1,49 @@
-<!-- ========================================================= -->
-<!--                 DANISH MEHMOOD | GITHUB PROFILE            -->
-<!-- ========================================================= -->
-
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Danish Mehmood Banner"/>
+  <img src="assets/banner.svg" width="100%" alt="Danish Mehmood Banner">
 </p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Danish Mehmood 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Danish+Mehmood+%F0%9F%91%8B;BBIT+Student+%7C+Aspiring+Data+Scientist;Learning+Python+%2B+ML+%2B+AI;Building+Real-World+Data+Projects" alt="Typing SVG" />
 
-<h3 align="center">
-Aspiring Data Scientist • AI & Machine Learning Enthusiast • BBIT Student
-</h3>
-
-<p align="center">
-Building practical Machine Learning applications with Python while continuously
-strengthening my skills in Data Science, AI, and Software Development.
-</p>
+</div>
 
 <p align="center">
-
-<a href="https://github.com/danish-mehmood1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/danish-mehmood143">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20AI%2FML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-BBIT-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
 
-I'm a **BBIT (Business & Information Technology)** student with a strong interest in **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
-
-I believe the best way to learn is by building real-world projects instead of only completing tutorials. Every project I create helps me strengthen my understanding of programming, data analysis, machine learning, databases, and software engineering.
-
-My long-term goal is to become a **Data Scientist** who can build intelligent systems that solve real-world problems using data.
-
----
-
-## 🎯 Current Focus
-
-- 🐍 Python Development
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🗄 SQL & MySQL
-- 📈 Statistics
-- 🚀 End-to-End Data Science Projects
+- 🎓 I'm a **BBIT (Business & Information Technology)** student
+- 🎯 My goal is to become a **Data Scientist / Machine Learning Engineer**
+- 💡 Right now I'm building a strong foundation in **Python, SQL, and OOP (C++)**, and moving step by step into **Data Science & AI/ML**
+- 🚀 I learn by **building real, deployed projects** — not just tutorials
+- 🌱 Currently exploring: **Data Analysis, Machine Learning, and AI-powered applications**
+- 📫 Open to internships, entry-level roles, and collaboration opportunities
 
 ---
 
-## 💡 Learning Philosophy
-
-> **Learn → Build → Improve → Repeat**
-
-I focus on building practical applications that transform theory into real experience. Every project in this profile represents another step toward becoming a professional Data Scientist.
-
----
-
-# 🚀 Featured Project
+### 🚀 Featured Project
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="100%">
 
-# 🎬 Movie Recommendation System
+**🎬 Movie Recommendation System**
 
-An end-to-end **Machine Learning Recommendation Engine** that provides personalized movie suggestions using **Collaborative Filtering**.
+An AI-powered personalized movie recommendation web app — built end-to-end from data to deployment.
 
-The application combines data processing, machine learning, cloud databases, third-party APIs, and modern web deployment into one complete project.
+- 🔧 Built with **Python, Pandas, Scikit-learn**
+- 🗄️ **MySQL** database hosted on **Railway Cloud**
+- 🎥 Integrated with the **TMDB API** for real movie data & posters
+- ☁️ Deployed live using **Streamlit Cloud**
+- 📊 Trained on **9,742 movies** and **100,836+ ratings**
 
-### 🌟 Key Highlights
-
-- 🎯 Personalized movie recommendations
-- 🤖 Collaborative Filtering algorithm
-- 🎬 TMDB API integration
-- 🖼 Movie posters & metadata
-- ☁️ Railway Cloud MySQL database
-- 🌐 Streamlit Cloud deployment
-- ⚡ Fast recommendation engine
-- 📱 Clean & responsive interface
-
----
-
-### 🛠 Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| Language | Python |
-| Data Analysis | Pandas, NumPy |
-| Machine Learning | Scikit-learn |
-| Database | MySQL |
-| Cloud | Railway |
-| API | TMDB API |
-| Frontend | Streamlit |
-| Version Control | Git & GitHub |
-
----
-
-### 📊 Dataset
-
-- 🎥 **9,742 Movies**
-- ⭐ **100,836 Ratings**
-- 👤 **610 Users**
-
-Based on the **MovieLens Dataset**.
-
----
-
-### 🔗 Links
-
-**🌐 Live Demo**
-
-https://movie-recommender-danish.streamlit.app
-
-**📂 GitHub Repository**
-
-https://github.com/danish-mehmood1/movie-recommendation-system
-
-</td>
-
-<td width="42%" align="center">
-
-## 📸 Project Preview
-
-> Replace this placeholder with your project screenshot.
-
-<img src="assets/movie-system.png" width="100%" alt="Movie Recommendation System">
+🔗 **Live App:** [https://movie-recommender-danish.streamlit.app/]  
+🔗 **GitHub Repo:** [https://github.com/danish-mehmood1/movie-recommendation-system]
 
 </td>
 </tr>
@@ -136,280 +51,69 @@ https://github.com/danish-mehmood1/movie-recommendation-system
 
 ---
 
-## ✨ Features
+### 🛠️ Tech Stack
 
-- Recommend movies based on user preferences
-- Fetch real movie posters using the TMDB API
-- Cloud-hosted MySQL database
-- Fast similarity-based recommendation engine
-- Modern dark-themed user interface
-- Fully deployed web application
-
----
-
-## 🧠 Machine Learning Workflow
-
-```text
-MovieLens Dataset
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-User–Movie Matrix
-        │
-        ▼
-Cosine Similarity
-        │
-        ▼
-Collaborative Filtering
-        │
-        ▼
-Top Movie Recommendations
-        │
-        ▼
-TMDB API
-        │
-        ▼
-Interactive Streamlit Web App
-```
-
----
-
-## 📌 What I Learned
-
-Through this project, I gained practical experience with:
-
-- Machine Learning workflows
-- Recommendation Systems
-- Data preprocessing
-- Feature engineering
-- REST API integration
-- Cloud database deployment
-- Git & GitHub collaboration
-- Streamlit application deployment
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
+**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Machine Learning
-
+**Data & Machine Learning**
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Platforms
-
+**Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danish-mehmood1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-mehmood1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-mehmood1&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🎯 Core Skills
+### 🎯 What's Next
 
-<table>
-
-<tr>
-<td width="50%">
-
-### Data Science
-
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Feature Engineering
-- Recommendation Systems
-
-</td>
-
-<td width="50%">
-
-### Software Development
-
-- Python Programming
-- Object-Oriented Programming
-- SQL & Database Design
-- REST API Integration
-- Git Version Control
-
-</td>
-</tr>
-
-</table>
+- 📊 Exploratory Data Analysis (EDA) projects
+- 🤖 Machine Learning prediction models (classification/regression)
+- 🧠 Deep Learning fundamentals
+- 💬 RAG / LLM-based applications
+- 📈 End-to-end deployed Data Science projects
 
 ---
 
-# 📚 Current Learning Journey
+### 📫 Connect With Me
 
-| Stage | Status |
-|:------|:------:|
-| Python Programming | ✅ Completed |
-| Git & GitHub | ✅ Completed |
-| SQL & MySQL | ✅ Completed |
-| Object-Oriented Programming | ✅ Completed |
-| Data Analysis (Pandas & NumPy) | 🔄 In Progress |
-| Machine Learning | 🔄 In Progress |
-| Statistics for Data Science | 🔄 In Progress |
-| Deep Learning | ⏳ Planned |
-| Natural Language Processing | ⏳ Planned |
-| Large Language Models (LLMs) | ⏳ Planned |
-
----
-
-# 🎯 Currently Working On
-
-- 📊 Improving Data Analysis skills using Pandas & NumPy
-- 🤖 Building Machine Learning projects
-- 🚀 Expanding my AI/Data Science portfolio
-- 🌐 Deploying complete end-to-end applications
-- 📖 Learning the mathematical foundations behind Machine Learning
-
----
-
-# 🌱 2026 Goals
-
-- ✅ Build multiple end-to-end Data Science projects
-- ✅ Master Scikit-learn
-- ✅ Learn Deep Learning fundamentals
-- ✅ Explore NLP & LLM applications
-- ✅ Contribute to Open Source
-- ✅ Secure a Data Science / AI Internship
-
----
-
-# 💼 Open To
-
-- Data Science Internships
-- Machine Learning Internships
-- AI Research Opportunities
-- Open Source Collaboration
-- Student Developer Programs
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danish-mehmood1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-mehmood1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-mehmood1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danish-mehmood1&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Featured Achievements
-
-- 🎬 Built and deployed an end-to-end **Movie Recommendation System**
-- ☁️ Integrated **Railway Cloud MySQL Database**
-- 🎥 Connected the application with the **TMDB API**
-- 🌐 Successfully deployed the application using **Streamlit Cloud**
-- 📊 Worked with the **MovieLens Dataset** containing thousands of movies and ratings
-- 🚀 Building a long-term portfolio focused on **Data Science & Artificial Intelligence**
-
----
-
-# 📅 Development Roadmap
-
-## Phase 1 — Foundation ✅
-
-- Python
-- SQL & MySQL
-- Git & GitHub
-- Object-Oriented Programming
-- Streamlit
-
----
-
-## Phase 2 — Data Science 🔄
-
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Machine Learning Projects
-- Recommendation Systems
-
----
-
-## Phase 3 — Artificial Intelligence ⏳
-
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
----
-
-## Phase 4 — Professional Growth 🎯
-
-- Open Source Contributions
-- Kaggle Projects
-- AI Research
-- Internship
-- Full-Time Data Science Career
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/danish-mehmood143">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/danish-mehmood143" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://github.com/danish-mehmood1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/danish-mehmood1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
+</p>
 
 <div align="center">
-
-## 💭 Philosophy
-
-> **"Great Data Scientists are not built by watching tutorials. They are built by solving real problems with data."**
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-I'm continuously learning, building, and improving.
-
-If you're interested in **Data Science**, **Machine Learning**, or **AI**, feel free to connect or explore my projects.
-
+  <sub>⭐ Thanks for visiting my profile — always happy to connect and learn together!</sub>
 </div>
